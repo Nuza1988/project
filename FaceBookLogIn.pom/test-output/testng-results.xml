@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18254" started-at="2020-01-05T23:11:29Z" finished-at="2020-01-05T23:11:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18254" started-at="2020-01-05T23:11:29Z" finished-at="2020-01-05T23:11:47Z">
+      <class name="FaceBook.ScreenShot002$FbLogin">
+        <test-method status="PASS" signature="mo()[pri:0, instance:FaceBook.ScreenShot002$FbLogin@5c7fa833]" name="mo" duration-ms="18069" started-at="2020-01-05T23:11:29Z" finished-at="2020-01-05T23:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mo -->
+      </class> <!-- FaceBook.ScreenShot002$FbLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
